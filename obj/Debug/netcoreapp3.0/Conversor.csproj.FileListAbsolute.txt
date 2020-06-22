@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Conversor\obj\Debug\netcoreapp3.0\Conversor.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Conversor\obj\Debug\netcoreapp3.0\Conversor.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Conversor\obj\Debug\netcoreapp3.0\Conversor.AssemblyInfo.cs
+C:\Users\senai\Desktop\Conversor\bin\Debug\netcoreapp3.0\Conversor.exe
+C:\Users\senai\Desktop\Conversor\bin\Debug\netcoreapp3.0\Conversor.deps.json
+C:\Users\senai\Desktop\Conversor\bin\Debug\netcoreapp3.0\Conversor.runtimeconfig.json
+C:\Users\senai\Desktop\Conversor\bin\Debug\netcoreapp3.0\Conversor.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Conversor\bin\Debug\netcoreapp3.0\Conversor.dll
+C:\Users\senai\Desktop\Conversor\bin\Debug\netcoreapp3.0\Conversor.pdb
+C:\Users\senai\Desktop\Conversor\obj\Debug\netcoreapp3.0\Conversor.dll
+C:\Users\senai\Desktop\Conversor\obj\Debug\netcoreapp3.0\Conversor.pdb
